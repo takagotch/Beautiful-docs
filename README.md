@@ -2,6 +2,8 @@
 ---
 https://github.com/PharkMillups/beautiful-docs
 
+https://www.npmjs.com/package/beautiful-docs
+
 ```
 npm install beautiful-docs
 ```
@@ -13,7 +15,7 @@ npm install beautiful-docs
 }
 ```
 
-```
+```html
 <%= @manifest.title %>
 ```
 
